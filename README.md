@@ -1,2 +1,6 @@
 # Intro-to-GitHub
 Creating and Managing a Repository
+  Create a new GitHub repository. Name the repository appropriately (e.g., "Intro-to-GitHub")
+  Write a short README.md file describing the purpose of the repository
+  Upload at least three files (e.g., code files, documents, images) to the repository
+  Take screenshots showing the repository creation process, file uploads, and the final repository page
